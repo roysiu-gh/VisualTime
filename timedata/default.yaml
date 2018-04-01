@@ -1,0 +1,32 @@
+arbitrary:
+    - #0
+        abrv: au
+        full: arbitrary unit
+        value: 1
+
+time:
+    - #0
+        abrv: s
+        full: second
+        plural: seconds
+        value: 1
+    - #1
+        abrv: m
+        full: minute
+        plural: minutes
+        value: 60
+    - #2
+        abrv: h
+        full: hour
+        plural: hours
+        value: 60
+    - #3
+        abrv: d
+        full: day
+        plural: days
+        value: 24
+    - #4
+        abrv: w
+        full: week
+        plural: weeks
+        value: 7

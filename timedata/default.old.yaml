@@ -1,0 +1,18 @@
+arbitrary:
+    baseunit: arbu
+    au:
+        full: arbitrary unit
+
+time:
+    baseunit: s
+    s:
+        full: second
+    m: 
+        full: minute
+        value: 60s
+    h: 
+        full: hour
+        value: 60m
+    d: 
+        full: day
+        value: 24h
